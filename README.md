@@ -203,8 +203,3 @@ Product Name + Price
 ```
 
 ---
-
-## Câu giải thích ngắn gọn cho sếp
-
-> YOLO dùng để phát hiện và gọi tên vật thể đã được train trước.  
-> Embedding + Vector Database dùng để mô tả đặc trưng hình ảnh và tìm sản phẩm giống nhất trong database, giống cách TikTok Shop hoặc Shopee search bằng ảnh.
